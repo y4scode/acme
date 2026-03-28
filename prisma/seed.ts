@@ -52,22 +52,22 @@ async function main() {
     const invoicesData = [{
         amount: 15785,
         status: InvoiceStatus.PAGO,
-        date: '2026-29-05',
+        date: '2026-05-29',
         customer: customers[0]
     }, {
         amount: 5757,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-21-05',
+        date: '2026-05-21',
         customer: customers[1]
     }, {
         amount: 5747,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-15-05',
+        date: '2026-05-15',
         customer: customers[2]
     }, {
         amount: 147854,
         status: InvoiceStatus.PAGO,
-        date: '2026-01-05',
+        date: '2026-05-01',
         customer: customers[0]
     }, {
         amount: 5777,
@@ -77,37 +77,37 @@ async function main() {
     }, {
         amount: 747,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-16-05',
+        date: '2026-05-16',
         customer: customers[2]
     }, {
         amount: 7789,
         status: InvoiceStatus.PAGO,
-        date: '2026-03-05',
+        date: '2026-05-03',
         customer: customers[0]
     }, {
         amount: 16834,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-08-05',
+        date: '2026-05-08',
         customer: customers[1]
     }, {
         amount: 235742,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-21-05',
+        date: '2026-05-21',
         customer: customers[2]
     }, {
         amount: 6789,
         status: InvoiceStatus.PAGO,
-        date: '2026-20-05',
+        date: '2026-05-20',
         customer: customers[0]
     }, {
         amount: 3421,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-13-05',
+        date: '2026-05-13',
         customer: customers[1]
     }, {
         amount: 5776,
         status: InvoiceStatus.PENDENTE,
-        date: '2026-27-05',
+        date: '2026-05-27',
         customer: customers[2]
     }];
 
